@@ -1,0 +1,38 @@
+.prod {
+    max-width: 500px;
+    margin: auto;
+    padding: 20px;
+    background-color: #f7f7f7;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .form-group label {
+    font-weight: bold;
+  }
+  
+  .form-control {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+  }
+  
+  .form-control-file {
+    margin-top: 5px;
+  }
+  
+  .error {
+    color: red;
+    font-size: 0.875em;
+    margin-top: 5px;
+  }
+  
+  .btn {
+    width: 100%;
+    padding: 10px;
+  }
+  
